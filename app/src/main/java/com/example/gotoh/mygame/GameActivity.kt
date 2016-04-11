@@ -34,7 +34,7 @@ class GameActivity : AppCompatActivity() {
         setContentView(R.layout.main)
 
         r.setOnTouchListener { view, event -> touchImage(view, event) }
-    }
+    }zzzz
 
 
     private fun touchImage(view: View, event: MotionEvent): Boolean {
